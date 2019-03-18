@@ -1,13 +1,13 @@
 {
-  "main.css": "/build/static/css/main.9e67d9c5.chunk.css",
-  "main.js": "/build/static/js/main.bb7fcc20.chunk.js",
-  "main.js.map": "/build/static/js/main.bb7fcc20.chunk.js.map",
-  "runtime~main.js": "/build/static/js/runtime~main.1471495f.js",
-  "runtime~main.js.map": "/build/static/js/runtime~main.1471495f.js.map",
-  "static/js/2.ea4d1651.chunk.js": "/build/static/js/2.ea4d1651.chunk.js",
-  "static/js/2.ea4d1651.chunk.js.map": "/build/static/js/2.ea4d1651.chunk.js.map",
-  "index.html": "/build/index.html",
-  "precache-manifest.c8f8376d50f26605bc3364e9c876a269.js": "/build/precache-manifest.c8f8376d50f26605bc3364e9c876a269.js",
-  "service-worker.js": "/build/service-worker.js",
-  "static/css/main.9e67d9c5.chunk.css.map": "/build/static/css/main.9e67d9c5.chunk.css.map"
+  "main.css": "/React-components/build/static/css/main.9e67d9c5.chunk.css",
+  "main.js": "/React-components/build/static/js/main.bb7fcc20.chunk.js",
+  "main.js.map": "/React-components/build/static/js/main.bb7fcc20.chunk.js.map",
+  "runtime~main.js": "/React-components/build/static/js/runtime~main.93c1bed7.js",
+  "runtime~main.js.map": "/React-components/build/static/js/runtime~main.93c1bed7.js.map",
+  "static/js/2.ea4d1651.chunk.js": "/React-components/build/static/js/2.ea4d1651.chunk.js",
+  "static/js/2.ea4d1651.chunk.js.map": "/React-components/build/static/js/2.ea4d1651.chunk.js.map",
+  "index.html": "/React-components/build/index.html",
+  "precache-manifest.f80d69cfa982864e512c3cf408075e77.js": "/React-components/build/precache-manifest.f80d69cfa982864e512c3cf408075e77.js",
+  "service-worker.js": "/React-components/build/service-worker.js",
+  "static/css/main.9e67d9c5.chunk.css.map": "/React-components/build/static/css/main.9e67d9c5.chunk.css.map"
 }

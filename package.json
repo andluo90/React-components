@@ -2,7 +2,7 @@
   "name": "component-app",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://andluo90.github.io/build",
+  "homepage":"https://andluo90.github.io/React-components/build",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.8.4",
