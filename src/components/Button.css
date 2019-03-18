@@ -1,0 +1,55 @@
+.button {
+    box-sizing: content-box;
+    height: 24px;
+    width:46px;
+    background: #ffffff;
+    border:1px solid rgab(153,153,153,1);
+    padding:4px 1em;
+    margin:10px;
+    border-radius: 4px;
+    position: relative;
+    overflow: hidden;
+}
+
+.button:focus {
+    outline: none;
+    /* border: 1px solid black; */
+}
+
+.button .value {
+    position: relative;
+    z-index: 1;
+}
+
+.button .value.active {
+    animation: .6s changeFontColor
+}   
+
+@keyframes changeFontColor{
+    0% {
+        font-weight:normal;
+    }
+    100% {
+        font-weight:700;
+    }
+}
+
+.button .circle {
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background:#EEEEE0;
+    display: inline-block;
+    z-index: 0;
+    animation: .6s changeBig forwards;
+}
+
+@keyframes changeBig{
+    0% {
+        transform:scale(0.1);
+    }
+    100% { 
+        transform:scale(15);
+    };
+}
