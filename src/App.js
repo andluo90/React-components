@@ -7,10 +7,10 @@ class App extends Component {
   render() {
     return (
       <div className='App'>
+        <h1>Button component</h1>
         <Button value='Button1'/>
         <Button value='Button2'/>
         <Button value='Button3'/>
-
       </div>
       
     );
